@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![Live](https://img.shields.io/badge/Live%20Site-careerkiosk.ai-purple?style=flat-square)
 
-> **AI Applications in Business** · Team Neural Nexus · Spring 2026
+> **AI Controls in Robotics** · Team Neural Nexus · Spring 2026
 
 ---
 
@@ -144,7 +144,7 @@ Comprehensive final midterm report covering the complete CareerKiosk platform.
 
 | Field | Details |
 |-------|---------|
-| **Course** | ITAI 4376 — AI Applications in Business |
+| **Course** | ITAI 4376 — AI Controls In Robotics |
 | **School** | Houston Community College |
 | **Semester** | Spring 2026 |
 | **Team** | Neural Nexus |
